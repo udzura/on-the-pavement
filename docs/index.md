@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## On the Pavement
 
-You can use the [editor on GitHub](https://github.com/udzura/on-the-pavement/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<iframe src="https://anchor.fm/onthepavement/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+@udzura によるローファイ技術系インターネットラジヲ。Web技術、Linux、言語学習や言語学、その他興味があること全般。
 
-### Markdown
+ハッシュタグは [#オンペ](https://twitter.com/hashtag/%E3%82%AA%E3%83%B3%E3%83%9A?src=hashtag_click) です。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 行動規範
 
-```markdown
-Syntax highlighted code block
+On the Pavement の配信内容は以下の行動規範に従います。共演者の配信内での発言・行動も本内容に従い対応しますので、目をお通しください。
 
-# Header 1
-## Header 2
-### Header 3
+----
 
-- Bulleted
-- List
+### アンチハラスメントポリシーについて
 
-1. Numbered
-2. List
+本ポッドキャスト（On the Pavement）は配信内容についてアンチハラスメントポリシーを策定しました。ポリシーの内容は常識を逸脱しておらず、さほど困難な内容ではないと考えています。
 
-**Bold** and _Italic_ and `Code` text
+### このアンチハラスメントポリシーの目的でないもの
 
-[Link](url) and ![Image](src)
-```
+私たちは、禁止事項を増やしてコミュニティを分断したり、共演者やリスナーを信頼しないことを表明するためにこのようなポリシーを制定するわけではありません。ご理解ください。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### このアンチハラスメントポリシーの目的
 
-### Jekyll Themes
+On the Pavementは、誰もがハラスメントを感じることなく安心して聴くことができるポッドキャストを目指しています。いかなる形であれハラスメントは許容できません。このルールを破った場合、配信の中止などの対応を行う場合があります。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/udzura/on-the-pavement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ハラスメントには以下のようなものを含み、また、これに限りません。
 
-### Support or Contact
+    ジェンダー、性自認やジェンダー表現、性的指向、障碍、容貌、体型、人種、民族、年齢、宗教あるいは無宗教についての攻撃的なコメントをすること。
+    公共のスペースで性的な画像を掲示すること。
+    脅迫、ストーキング、つきまとい、または、それらを計画すること。
+    いやがらせ目的の撮影や録音。
+    発表や他のイベントを継続的に妨害すること。
+    不適切な身体的接触。
+    不快な性的アトラクション。
+    以上のような行為を推奨したり、擁護したりすること。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ハラスメント行為をやめるように要請された参加者は、直ちに従ってください。
+
+スポンサーもこのアンチハラスメントポリシーに従ってください。スポンサーにおいては特に、性的なアクティビティ、素材などを使わないでください。
+
+### もし配信内容がハラスメントだと感じた場合
+
+On the Pavementの主催者 @udzura にご連絡をお願いします。
+
+----
+
+参考: [Fukuoka.rb のCoC](https://github.com/fukuokarb/code-of-conduct) さらに元になった参考資料はFukuoka.rbのものを辿ってください。
+
+## Support について
+
+よろしければ、このプロジェクトのGitHub Sponsorに登録してください！ 登録いただいた方はご希望であればラジオでご紹介いたします。
