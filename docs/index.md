@@ -49,4 +49,6 @@ On the Pavementの主催者 @udzura にご連絡をお願いします。
 
 ## Support について
 
-よろしければ、このプロジェクトのGitHub Sponsorに登録してください！ 登録いただいた方はご希望であればラジオでご紹介いたします。
+よろしければ、GitHub Sponsorに登録してください！ 登録いただいた方はご希望であれば、かつご連絡いただければラジオでご紹介いたします。
+
+<iframe src="https://github.com/sponsors/udzura/button" title="Sponsor udzura" height="35" width="116" style="border: 0;"></iframe>
